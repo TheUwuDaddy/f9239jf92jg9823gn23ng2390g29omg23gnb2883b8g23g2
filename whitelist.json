@@ -7,8 +7,92 @@
       "created": "2025-11-07"
     },
     {
-      "hash": "c1cc8417239411e418f9598cb56a01c564dbb750b6fc0a7a016255980fdb7687",
-      "user": "Stefania",
+      "hash": "bb2bb2cf5ee9501e9c75c3fca5ecb43477143619d232976e5779246b3e7fe7b2",
+      "user": "ekipa1",
+      "active": true,
+      "created": "2025-11-07"
+    },
+    {
+      "hash": "d01544d3a0f45a548972ee90b0d707744dc70f97be0a349393beeedd83569a3f",
+      "user": "ekipa2",
+      "active": true,
+      "created": "2025-11-07"
+    },
+    {
+      "hash": "080f24ed60ec640dd00b3a45ee6919e213f4419d88a91735c88223ca43e7c7a5",
+      "user": "ekipa3",
+      "active": true,
+      "created": "2025-11-07"
+    },
+    {
+      "hash": "d6e2ca527ce900986f8ae75ff52963498a4d5600f96c9c55e953a80d6f82e33a",
+      "user": "ekipa4",
+      "active": true,
+      "created": "2025-11-07"
+    },
+    {
+      "hash": "0cde5a3de08909ebf5a9a53b722089fbe3e50234416da3e3b46ec3eeb6aee233",
+      "user": "ekipa5",
+      "active": true,
+      "created": "2025-11-07"
+    },
+    {
+      "hash": "4633aa02e15f8c1e0334f1f82fc0f55866976a7613369414afba5d244f4e0892",
+      "user": "ekipa6",
+      "active": true,
+      "created": "2025-11-07"
+    },
+    {
+      "hash": "8f3f343c5806dee8a2865804a668e3f0df9ab8055eb8eb8c408d45d956654e87",
+      "user": "ekipa7",
+      "active": true,
+      "created": "2025-11-07"
+    },
+    {
+      "hash": "cc33c966c8afe7205a08e9d8ce614e46666a27121b886fe3fa0acc9dbf7b3cc6",
+      "user": "ekipa8",
+      "active": true,
+      "created": "2025-11-07"
+    },
+    {
+      "hash": "29ed8152d09a271cb23c9d011c8e98198b2de723ce009783f437b8bcb251dea9",
+      "user": "ekipa9",
+      "active": true,
+      "created": "2025-11-07"
+    },
+    {
+      "hash": "f5f6a221500112c45cb3057e416464c0483221a8b82d471b8871b380b968d3f8",
+      "user": "ekipa10",
+      "active": true,
+      "created": "2025-11-07"
+    },
+    {
+      "hash": "6ce85c153dc3e79ac984a385bf262dce27f4794b714b714d8b83d2dcc7d1d113",
+      "user": "ekipa11",
+      "active": true,
+      "created": "2025-11-07"
+    },
+    {
+      "hash": "1093cb50b66b3d53f1b8bf17bb6898d7a5dea109cb48c41a07550ec4de2a5c39",
+      "user": "ekipa12",
+      "active": true,
+      "created": "2025-11-07"
+    },
+    {
+      "hash": "c9c58b15400747a41e4fea08ba9d59170042896de4d233ce1c43fd43a865fb6a",
+      "user": "ekipa13",
+      "active": true,
+      "created": "2025-11-07"
+    },
+    {
+      "hash": "5b6afac65891a3fdba7c1954ff8000ff284df25849772b0d974b3bcb313a1345",
+      "user": "ekipa14",
+      "active": true,
+      "created": "2025-11-07"
+    },
+    {
+      "hash": "028f9a6380cae5c1bf8f4f45c15e3ee05d877303d490f7afdee51543d15d11a2",
+      "user": "ekipa15",
       "active": true,
       "created": "2025-11-07"
     }
@@ -16,4 +100,5 @@
   "version": "1.0",
   "last_updated": "2025-11-07 16:30:00"
 }
+
 
