@@ -1,12 +1,19 @@
 {
   "keys": [
     {
+    {
       "hash": "28fab0f9e31e52146d3b288793c49e29e97ddd2f190fd748bf8e44a2aa097a63",
       "user": "Bozydar",
+      "active": true,
+      "created": "2025-11-07"
+    },
+    {
+      "hash": "c1cc8417239411e418f9598cb56a01c564dbb750b6fc0a7a016255980fdb7687",
+      "user": "Stefania",
       "active": true,
       "created": "2025-11-07"
     }
   ],
   "version": "1.0",
-  "last_updated": "2025-11-07 12:34:35"
+  "last_updated": "2025-11-07 16:30:00"
 }
