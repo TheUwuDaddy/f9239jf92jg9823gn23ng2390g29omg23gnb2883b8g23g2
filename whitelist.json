@@ -3,7 +3,7 @@
     {
       "hash": "28fab0f9e31e52146d3b288793c49e29e97ddd2f190fd748bf8e44a2aa097a63",
       "user": "Bozydar",
-      "active": true,
+      "active": false,
       "created": "2025-11-07"
     },
     {
@@ -15,13 +15,13 @@
     {
       "hash": "d01544d3a0f45a548972ee90b0d707744dc70f97be0a349393beeedd83569a3f",
       "user": "ekipa2",
-      "active": true,
+      "active": false,
       "created": "2025-11-07"
     },
     {
       "hash": "080f24ed60ec640dd00b3a45ee6919e213f4419d88a91735c88223ca43e7c7a5",
       "user": "ekipa3",
-      "active": true,
+      "active": false,
       "created": "2025-11-07"
     },
     {
@@ -100,5 +100,6 @@
   "version": "1.0",
   "last_updated": "2025-11-07 16:30:00"
 }
+
 
 
