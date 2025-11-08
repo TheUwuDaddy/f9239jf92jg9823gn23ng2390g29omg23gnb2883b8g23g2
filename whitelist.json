@@ -3,7 +3,7 @@
     {
       "hash": "28fab0f9e31e52146d3b288793c49e29e97ddd2f190fd748bf8e44a2aa097a63",
       "user": "Bozydar",
-      "active": false,
+      "active": true,
       "created": "2025-11-07"
     },
     {
@@ -100,6 +100,7 @@
   "version": "1.0",
   "last_updated": "2025-11-07 16:30:00"
 }
+
 
 
 
