@@ -9,7 +9,7 @@
     {
       "hash": "bb2bb2cf5ee9501e9c75c3fca5ecb43477143619d232976e5779246b3e7fe7b2",
       "user": "ekipa1",
-      "active": false,
+      "active": true,
       "created": "2025-11-07"
     },
     {
@@ -100,6 +100,7 @@
   "version": "1.0",
   "last_updated": "2025-11-07 16:30:00"
 }
+
 
 
 
