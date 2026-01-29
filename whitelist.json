@@ -25,12 +25,6 @@
       "created": "2025-11-19"
     },
     {
-      "hash": "c02866b080dc5dc4f80fd3e07eb55b7ba0d91c2f467b608b6644a82f5d85a2d0",
-      "user": "owoc5",
-      "active": true,
-      "created": "2025-11-19"
-    },
-    {
       "hash": "0649f91f4036e500b2dab866d228e8d44a5e775850dc409ec0f1a5003d8b92c8",
       "user": "owoc6",
       "active": true,
@@ -154,3 +148,4 @@
   "version": "1.0",
   "last_updated": "2025-11-19 13:04:11"
 }
+
