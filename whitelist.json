@@ -5,7 +5,7 @@
       "user": "owoc1",
       "active": true,
       "created": "2025-11-19",
-      "hwid": "d1b99c85174a088b0fc5ead8047340ab5971ecb8bf8698d73471308048898d82xxxxx"
+      "hwid": "B7C28570-79F7-0000-0000-000000000000"
     },
     {
       "hash": "9f7277e7627f36f86c242635544d3610888f48fc05d3a970ecb93f890b84e05c",
@@ -173,4 +173,5 @@
   "last_updated": "2025-01-31",
   "notes": "hwid puste = niezwiazany, po aktywacji wklej HWID z Discord webhook"
 }
+
 
