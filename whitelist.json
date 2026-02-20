@@ -138,7 +138,7 @@
       "user": "owoc21",
       "active": true,
       "created": "2025-11-19",
-      "hwid": "2836f87397faabdedb8374484671135e15c5a3e0963c6d34157f002835ba9c26"
+      "hwid": ""
     },
     {
       "hash": "e37c238b5f3d6780c50b5a49d9ec7e2c973bf2e6b5ab0a59d0331dc8f0b757ae",
@@ -173,6 +173,7 @@
   "last_updated": "2025-01-31",
   "notes": "hwid puste = niezwiazany, po aktywacji wklej HWID z Discord webhook"
 }
+
 
 
 
