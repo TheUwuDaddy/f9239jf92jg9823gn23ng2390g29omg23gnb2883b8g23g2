@@ -15,6 +15,13 @@
       "hwid": ""
     },
     {
+      "hash": "d03d4daea057ba4464b174632663ffb0cb4c0d72cecfda642941fd547e1c9706",
+      "user": "Oskar Niecwel Pc",
+      "active": true,
+      "created": "2026-02-21",
+      "hwid": ""
+    },
+    {
       "hash": "9f7277e7627f36f86c242635544d3610888f48fc05d3a970ecb93f890b84e05c",
       "user": "owoc2",
       "active": true,
@@ -180,6 +187,7 @@
   "last_updated": "2025-01-31",
   "notes": "hwid puste = niezwiazany, po aktywacji wklej HWID z Discord webhook"
 }
+
 
 
 
