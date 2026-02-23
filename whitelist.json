@@ -167,10 +167,10 @@
     },
     {
       "hash": "c95a496c1659ee5b4e9170bd23a05616ff5f14c00c2d9f1ec81a631cb5b25e73",
-      "user": "owoc21",
+      "user": "FeuZz",
       "active": true,
       "created": "2025-11-19",
-      "hwid": [],
+      "hwid": ["55657fea01f656f6f0e4edde4957fe8241354160fe01ae408fe87ac7251d156f"],
       "max_devices": 2
     },
     {
@@ -210,6 +210,7 @@
   "last_updated": "2026-02-23",
   "notes": "HWID v2 (stabilny BIOS+DISK+MGUID). max_devices = limit urzadzen per klucz. hwid=[] = auto-rejestracja przy aktywacji."
 }
+
 
 
 
