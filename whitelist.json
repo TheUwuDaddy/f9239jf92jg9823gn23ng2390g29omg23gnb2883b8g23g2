@@ -146,8 +146,8 @@
       "user": "Krygo",
       "active": true,
       "created": "2025-11-19",
-      "hwid": [],
-      "max_devices": 2
+      "hwid": ["aae47762c0799192b562716cf39e33fc8547db42b8f8ab03273012111b57143a"],
+      "max_devices": 1
     },
     {
       "hash": "c5da7317967622e9ce6835efd5bf4700f9008ddcbea29230cc93984b6e57972d",
@@ -210,6 +210,7 @@
   "last_updated": "2026-02-23",
   "notes": "HWID v2 (stabilny BIOS+DISK+MGUID). max_devices = limit urzadzen per klucz. hwid=[] = auto-rejestracja przy aktywacji."
 }
+
 
 
 
