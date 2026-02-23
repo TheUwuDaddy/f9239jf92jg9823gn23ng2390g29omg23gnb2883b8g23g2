@@ -2,24 +2,24 @@
   "keys": [
     {
       "hash": "18ac613de781092ee6a9ef9b2c9db11381a4caff64b4817c1da3742428101b08",
-      "user": "owoc1",
+      "user": "Domik",
       "active": true,
-      "created": "2025-11-19",
-      "hwid": ""
-    },
+      "hwid": ["a1d8179af366b2cc447576a21d98c077aba2f7dc5cf9da1e9ddfc760715c2078"],
+      "max_devices": 5
+    }
     {
       "hash": "0e65507059dfeddc9ef749d488bdd5d873b8b0199fb54329ceacbbe195a81f85",
       "user": "Sziru",
       "active": true,
-      "created": "2026-02-21",
       "hwid": ""
+      "max_devices": 1
     },
     {
       "hash": "d03d4daea057ba4464b174632663ffb0cb4c0d72cecfda642941fd547e1c9706",
       "user": "Oskar Niecwel Pc",
       "active": true,
-      "created": "2026-02-21",
       "hwid": ""
+      "max_devices": 1
     },
     {
       "hash": "9f7277e7627f36f86c242635544d3610888f48fc05d3a970ecb93f890b84e05c",
@@ -187,6 +187,7 @@
   "last_updated": "2025-01-31",
   "notes": "hwid puste = niezwiazany, po aktywacji wklej HWID z Discord webhook"
 }
+
 
 
 
