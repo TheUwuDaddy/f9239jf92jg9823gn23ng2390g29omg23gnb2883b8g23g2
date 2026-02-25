@@ -18,7 +18,7 @@
       "hash": "d03d4daea057ba4464b174632663ffb0cb4c0d72cecfda642941fd547e1c9706",
       "user": "Oskar Niecwel Pc",
       "active": true,
-      "hwid": ["ae1f63a99139231e63696e704c12a3d1bb56a6e445989a3da7ea8350f989796c", "58d3c238b8641564da93b874f518bb158993b2f53aab3b3fdabb3c4a40a00e34"],
+      "hwid": ["3f507b8f61b3cece792ce1656e7ba0c3259b6c28ed4811edc1b53ddb4ed42eec", "ae1f63a99139231e63696e704c12a3d1bb56a6e445989a3da7ea8350f989796c", "58d3c238b8641564da93b874f518bb158993b2f53aab3b3fdabb3c4a40a00e34"],
       "max_devices": 2
     },
     {
@@ -210,6 +210,7 @@
   "last_updated": "2026-02-23",
   "notes": "HWID v2 (stabilny BIOS+DISK+MGUID). max_devices = limit urzadzen per klucz. hwid=[] = auto-rejestracja przy aktywacji."
 }
+
 
 
 
