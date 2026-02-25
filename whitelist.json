@@ -162,7 +162,7 @@
       "user": "Enriqez",
       "active": true,
       "created": "2025-11-19",
-      "hwid": ["dc19b447dfd718f4f04f4c76e2a476bd5eef9e41c890142af377b8ad19ad46cf", "9d88733d79bcbfe5b1a70fa57c64ac8cb9762c7391c9f6f13511f6310268ce1f"],
+      "hwid": ["ea7c8269d5b2b87052a523dc2aba2b61d624ee5ed03046ba6b38fd93a41d011c", "dc19b447dfd718f4f04f4c76e2a476bd5eef9e41c890142af377b8ad19ad46cf", "9d88733d79bcbfe5b1a70fa57c64ac8cb9762c7391c9f6f13511f6310268ce1f"],
       "max_devices": 2
     },
     {
@@ -210,6 +210,7 @@
   "last_updated": "2026-02-23",
   "notes": "HWID v2 (stabilny BIOS+DISK+MGUID). max_devices = limit urzadzen per klucz. hwid=[] = auto-rejestracja przy aktywacji."
 }
+
 
 
 
