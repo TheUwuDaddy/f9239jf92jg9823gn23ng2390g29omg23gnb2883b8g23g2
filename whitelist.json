@@ -135,10 +135,10 @@
     },
     {
       "hash": "51a6b98dc4ba606fccb429c0e4dcbd48011e5c8c458cb17750b7084121b6be99",
-      "user": "owoc17",
+      "user": "Exero",
       "active": true,
       "created": "2025-11-19",
-      "hwid": [],
+      "hwid": ["b81d5fafca310c820aa9c7cdf0385630cb6757b2280ecd7e4db10e04da243901"],
       "max_devices": 2
     },
     {
@@ -210,6 +210,7 @@
   "last_updated": "2026-02-23",
   "notes": "HWID v2 (stabilny BIOS+DISK+MGUID). max_devices = limit urzadzen per klucz. hwid=[] = auto-rejestracja przy aktywacji."
 }
+
 
 
 
