@@ -202,7 +202,7 @@
       "user": "owoc25 jp",
       "active": true,
       "created": "2025-11-19",
-      "hwid": ["ddda5c5565aba0495cf45dcf8c4fc5232ebf94ad9d6c3dde8ee4f4e8ffec3212", ""],
+      "hwid": ["ddda5c5565aba0495cf45dcf8c4fc5232ebf94ad9d6c3dde8ee4f4e8ffec3212", "7f31a6aa08d7acb92630f757b1e48130ca8708689f41a4f7d8c1c34628464edb"],
       "max_devices": 2
     }
   ],
@@ -210,6 +210,7 @@
   "last_updated": "2026-02-23",
   "notes": "HWID v2 (stabilny BIOS+DISK+MGUID). max_devices = limit urzadzen per klucz. hwid=[] = auto-rejestracja przy aktywacji."
 }
+
 
 
 
