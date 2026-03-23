@@ -8,20 +8,6 @@
       "max_devices": 22
     },
     {
-      "hash": "0e65507059dfeddc9ef749d488bdd5d873b8b0199fb54329ceacbbe195a81f85",
-      "user": "Sziru",
-      "active": false,
-      "hwid": [],
-      "max_devices": 1
-    },
-    {
-      "hash": "d03d4daea057ba4464b174632663ffb0cb4c0d72cecfda642941fd547e1c9706",
-      "user": "Oskar Niecwel Pc",
-      "active": false,
-      "hwid": ["3f507b8f61b3cece792ce1656e7ba0c3259b6c28ed4811edc1b53ddb4ed42eec", "ae1f63a99139231e63696e704c12a3d1bb56a6e445989a3da7ea8350f989796c", "58d3c238b8641564da93b874f518bb158993b2f53aab3b3fdabb3c4a40a00e34"],
-      "max_devices": 2
-    },
-    {
       "hash": "9f7277e7627f36f86c242635544d3610888f48fc05d3a970ecb93f890b84e05c",
       "user": "owoc2",
       "active": false,
@@ -134,43 +120,11 @@
       "max_devices": 2
     },
     {
-      "hash": "51a6b98dc4ba606fccb429c0e4dcbd48011e5c8c458cb17750b7084121b6be99",
-      "user": "Exero",
-      "active": false,
-      "created": "2025-11-19",
-      "hwid": ["b81d5fafca310c820aa9c7cdf0385630cb6757b2280ecd7e4db10e04da243901"],
-      "max_devices": 2
-    },
-    {
-      "hash": "19037a0e7eb947d9797ea234ea731e905074fe70568f405b84c7f47103c88249",
-      "user": "Krygo",
-      "active": false,
-      "created": "2025-11-19",
-      "hwid": ["aae47762c0799192b562716cf39e33fc8547db42b8f8ab03273012111b57143a"],
-      "max_devices": 1
-    },
-    {
       "hash": "c5da7317967622e9ce6835efd5bf4700f9008ddcbea29230cc93984b6e57972d",
       "user": "owoc19",
       "active": false,
       "created": "2025-11-19",
       "hwid": [],
-      "max_devices": 2
-    },
-    {
-      "hash": "c72f40f1a776127a8313dc4e20e46f76200a68e8adb4ff5b56d927b9b9a901a0",
-      "user": "Enriqez",
-      "active": false,
-      "created": "2025-11-19",
-      "hwid": ["ea7c8269d5b2b87052a523dc2aba2b61d624ee5ed03046ba6b38fd93a41d011c", "dc19b447dfd718f4f04f4c76e2a476bd5eef9e41c890142af377b8ad19ad46cf", "9d88733d79bcbfe5b1a70fa57c64ac8cb9762c7391c9f6f13511f6310268ce1f"],
-      "max_devices": 2
-    },
-    {
-      "hash": "c95a496c1659ee5b4e9170bd23a05616ff5f14c00c2d9f1ec81a631cb5b25e73",
-      "user": "FeuZz",
-      "active": false,
-      "created": "2025-11-19",
-      "hwid": ["55657fea01f656f6f0e4edde4957fe8241354160fe01ae408fe87ac7251d156f"],
       "max_devices": 2
     },
     {
@@ -180,14 +134,6 @@
       "created": "2025-11-19",
       "hwid": [],
       "max_devices": 2
-    },
-    {
-      "hash": "6579d17904519275a6bd3e781ca93ad92079878352d34744d6c00de224706cd7",
-      "user": "Najduch",
-      "active": false,
-      "created": "2025-11-19",
-      "hwid": ["547067649cfc9ae9d27b3f79905d0d0af813c4f949b056900e43c3dfd757c644"],
-      "max_devices": 1
     },
     {
       "hash": "1c8d3a6ce47fe807918f19e59abdf6f7ccf63194f2c9bddbddc034ae78d588d0",
