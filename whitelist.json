@@ -10,7 +10,7 @@
     {
       "hash": "9f7277e7627f36f86c242635544d3610888f48fc05d3a970ecb93f890b84e05c",
       "user": "owoc2",
-      "active": false,
+      "active": true,
       "created": "2025-11-19",
       "hwid": [],
       "max_devices": 2
@@ -18,7 +18,7 @@
     {
       "hash": "2ff7ec72a81920bfd7d87d32ffe6c275f193ba9fd88d340f5a19d584ce3ddc7b",
       "user": "owoc3",
-      "active": false,
+      "active": true,
       "created": "2025-11-19",
       "hwid": [],
       "max_devices": 2
@@ -26,7 +26,7 @@
     {
       "hash": "d5118f7a2a81ea3f19d34e59659523528f46ca879fd15e001802b63ecea8eb20",
       "user": "owoc4",
-      "active": false,
+      "active": true,
       "created": "2025-11-19",
       "hwid": [],
       "max_devices": 2
