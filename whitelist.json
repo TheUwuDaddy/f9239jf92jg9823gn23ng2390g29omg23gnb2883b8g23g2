@@ -50,7 +50,7 @@
     {
       "hash": "331a84eaf056afbbd192933f1adde89a46b95f02507a094e40ec0116f1f1e0b0",
       "user": "owoc8",
-      "active": false,
+      "active": true,
       "created": "2025-11-19",
       "hwid": [],
       "max_devices": 2
@@ -58,7 +58,7 @@
     {
       "hash": "055198a092f5455c38fd4ed6749169dc6a843c57a1186a1fa46ed8a855f23c14",
       "user": "owoc9",
-      "active": false,
+      "active": true,
       "created": "2025-11-19",
       "hwid": [],
       "max_devices": 2
@@ -66,7 +66,7 @@
     {
       "hash": "90069899bf36b770f46aa70adbe1e445be22cc7651fb2c401acf656ec1a8a9a2",
       "user": "owoc10",
-      "active": false,
+      "active": true,
       "created": "2025-11-19",
       "hwid": [],
       "max_devices": 2
@@ -74,7 +74,7 @@
     {
       "hash": "6eb91b8c3efbb0e5b7f7c8c7178ac7cbf85b335cd934d2f35daa1b1e834aba3d",
       "user": "owoc11",
-      "active": false,
+      "active": true,
       "created": "2025-11-19",
       "hwid": [],
       "max_devices": 2
@@ -98,7 +98,7 @@
     {
       "hash": "186fb529569400bbc44264eecd3aae085769ebe9a4aa4cbb6c52866a6256df66",
       "user": "owoc14",
-      "active": false,
+      "active": true,
       "created": "2025-11-19",
       "hwid": [],
       "max_devices": 2
