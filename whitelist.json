@@ -138,10 +138,10 @@
     {
       "hash": "1c8d3a6ce47fe807918f19e59abdf6f7ccf63194f2c9bddbddc034ae78d588d0",
       "user": "owoc24",
-      "active": false,
+      "active": true,
       "created": "2025-11-19",
       "hwid": [],
-      "max_devices": 2
+      "max_devices": 4
     },
     {
       "hash": "da3315c29fde35755af049049e15470126fe48ee9aeffb6b6e4e89a2fa12640f",
